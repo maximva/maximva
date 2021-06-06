@@ -1,4 +1,4 @@
-### Hi there 👋
+# Behold ... My stuff
 
 <!--
 **maximva/maximva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![profile trophy](https://github-profile-trophy.vercel.app/?username=maximva&theme=onedark)
+![redle stats](https://github-readme-stats.vercel.app/api?username=robindeleu&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=onedark)
