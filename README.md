@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![profile trophy](https://github-profile-trophy.vercel.app/?username=maximva&theme=onedark)
-![redle stats](https://github-readme-stats.vercel.app/api?username=robindeleu&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=onedark)
+![redle stats](https://github-readme-stats.vercel.app/api?username=maximva&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=onedark)
